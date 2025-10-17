@@ -28,11 +28,11 @@ let obj={        //objects are present in key value pair
     pass:true,
 }
 
-let fun=function add()
+let fun=function first()
 {
-    console.log("Hello");
+console.log("hello");
 }
-add(); //function 
+console.log(first());
 //Functions in JS can be stored in a datatype
 
 
